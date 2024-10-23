@@ -13,5 +13,6 @@ bool whyudoubtedme::is_there_any_dream()
 
 int main()
 {
+	// still same
 	bool sameold = whyudoubtedme::is_there_any_dream();
 };
