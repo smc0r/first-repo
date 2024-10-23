@@ -13,7 +13,7 @@ bool whyudoubtedme::is_there_any_dream()
 
 int main()
 {
-	// still same, we're in huh branch 
+	// still same; we're in huh branch, makebelieve.
 	bool sameold = whyudoubtedme::is_there_any_dream();
 	
 };
